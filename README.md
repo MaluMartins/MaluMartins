@@ -3,7 +3,7 @@
 <p>Sou técnica formada em Desenvolvimento de Sistemas e atualmente estudo Ciência da Computação na Universidade Paulista,
 e sou apaixonada por tecnologia e programação!</p>
 
-- 🔭 Atualmente trabalho com Node.js
+- 🔭 Atualmente programando em Node.js
 - 🌱 Estudando back-end para me tornar uma programadora Full Stack!
 
 <h3>Tecnologias conhecidas:</h3>
