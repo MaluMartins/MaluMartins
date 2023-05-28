@@ -1,6 +1,6 @@
 ### Olá, eu sou a Malu Martins!
 
-<p>Sou técnica formada em Desenvolvimento de Sistemas e atualemnte estudo Ciência da Computação na Universidade Paulista,
+<p>Sou técnica formada em Desenvolvimento de Sistemas e atualmente estudo Ciência da Computação na Universidade Paulista,
 e sou apaixonada por tecnologia e programação!</p>
 
 - 🔭 Atualmente trabalho com Node.js
