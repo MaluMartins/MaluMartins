@@ -3,9 +3,9 @@
 <p>Sou técnica formada em Desenvolvimento de Sistemas e atualmente estudo Ciência da Computação na Universidade Paulista,
 e sou apaixonada por tecnologia e programação!</p>
 
-- 🔭 Atualmente programando em Python
+- 🔭 Atualmente programando em Java
 - 🌱 Estudando Data Science com Python
-- 🌱 Estudando back-end para me tornar uma programadora Full Stack!
+- 🌱 Estudando back-end com Java Spring para me tornar uma programadora Full Stack!
 
 <h3>Tecnologias conhecidas:</h3>
 <div style="inline-block">
