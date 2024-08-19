@@ -4,7 +4,6 @@
 e sou apaixonada por tecnologia e programação!</p>
 
 - 🔭 Atualmente programando em Java
-- 🌱 Estudando Data Science com Python
 - 🌱 Estudando back-end com Java Spring para me tornar uma programadora Full Stack!
 
 <h3>Tecnologias conhecidas:</h3>
